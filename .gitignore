@@ -1,0 +1,16 @@
+/.buildpath
+.settings
+.settings/org.eclipse.core.resources.prefs
+_svn
+.project
+*.project
+compass_app_log.txt
+*.class
+.svn
+*.pyc
+.sass-cache
+/nbproject/
+*.pyo
+sftp-config.json
+.DS_Store
+.vagrant
